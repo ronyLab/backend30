@@ -32,3 +32,4 @@ C:\Users\Ronynho\Desktop\outros\FUNCIONANDO\backend\LocadoraVeiculos\LocadoraVei
 C:\Users\Ronynho\Desktop\outros\FUNCIONANDO\backend\LocadoraVeiculos\LocadoraVeiculos.Servico\obj\Debug\net9.0\refint\LocadoraVeiculos.Servico.dll
 C:\Users\Ronynho\Desktop\outros\FUNCIONANDO\backend\LocadoraVeiculos\LocadoraVeiculos.Servico\obj\Debug\net9.0\LocadoraVeiculos.Servico.pdb
 C:\Users\Ronynho\Desktop\outros\FUNCIONANDO\backend\LocadoraVeiculos\LocadoraVeiculos.Servico\obj\Debug\net9.0\ref\LocadoraVeiculos.Servico.dll
+C:\Users\Ronynho\Desktop\outros\FUNCIONANDO\backend\LocadoraVeiculos\LocadoraVeiculos.Servico\obj\Debug\net9.0\LocadoraVeiculos.Servico.sourcelink.json

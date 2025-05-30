@@ -20,3 +20,4 @@ C:\Users\Ronynho\Desktop\outros\FUNCIONANDO\backend\LocadoraVeiculos\LocadoraVei
 C:\Users\Ronynho\Desktop\outros\FUNCIONANDO\backend\LocadoraVeiculos\LocadoraVeiculos.Dominio\obj\Debug\net9.0\refint\LocadoraVeiculos.Dominio.dll
 C:\Users\Ronynho\Desktop\outros\FUNCIONANDO\backend\LocadoraVeiculos\LocadoraVeiculos.Dominio\obj\Debug\net9.0\LocadoraVeiculos.Dominio.pdb
 C:\Users\Ronynho\Desktop\outros\FUNCIONANDO\backend\LocadoraVeiculos\LocadoraVeiculos.Dominio\obj\Debug\net9.0\ref\LocadoraVeiculos.Dominio.dll
+C:\Users\Ronynho\Desktop\outros\FUNCIONANDO\backend\LocadoraVeiculos\LocadoraVeiculos.Dominio\obj\Debug\net9.0\LocadoraVeiculos.Dominio.sourcelink.json
