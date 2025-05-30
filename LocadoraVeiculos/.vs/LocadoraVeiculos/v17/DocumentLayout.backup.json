@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.dominio\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|solutionrelative:locadoraveiculos.dominio\\models\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BD3291-1867-4D95-8779-FBB7DE447D4C}|LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.webapi\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BD3291-1867-4D95-8779-FBB7DE447D4C}|LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj|solutionrelative:locadoraveiculos.webapi\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BD3291-1867-4D95-8779-FBB7DE447D4C}|LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BD3291-1867-4D95-8779-FBB7DE447D4C}|LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj|solutionrelative:locadoraveiculos.webapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BD3291-1867-4D95-8779-FBB7DE447D4C}|LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.webapi\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BD3291-1867-4D95-8779-FBB7DE447D4C}|LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj|solutionrelative:locadoraveiculos.webapi\\controllers\\veiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.dominio\\dtos\\veiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|solutionrelative:locadoraveiculos.dominio\\dtos\\veiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.dominio\\dtos\\reservadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|solutionrelative:locadoraveiculos.dominio\\dtos\\reservadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.servico\\services\\reservaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|solutionrelative:locadoraveiculos.servico\\services\\reservaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BD3291-1867-4D95-8779-FBB7DE447D4C}|LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4BD3291-1867-4D95-8779-FBB7DE447D4C}|LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj|solutionrelative:locadoraveiculos.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.servico\\interfaces\\iclienteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|solutionrelative:locadoraveiculos.servico\\interfaces\\iclienteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.repositorio\\repositories\\reservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|solutionrelative:locadoraveiculos.repositorio\\repositories\\reservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.dominio\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|solutionrelative:locadoraveiculos.dominio\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.dominio\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|solutionrelative:locadoraveiculos.dominio\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.repositorio\\interfaces\\ireservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|solutionrelative:locadoraveiculos.repositorio\\interfaces\\ireservarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.repositorio\\interfaces\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|solutionrelative:locadoraveiculos.repositorio\\interfaces\\iclienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.repositorio\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|solutionrelative:locadoraveiculos.repositorio\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.dominio\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B9FC05C-06C6-49C6-9641-A49468888FCF}|LocadoraVeiculos.Dominio\\LocadoraVeiculos.Dominio.csproj|solutionrelative:locadoraveiculos.dominio\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4BD3291-1867-4D95-8779-FBB7DE447D4C}|LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.webapi\\locadoraveiculos.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E4BD3291-1867-4D95-8779-FBB7DE447D4C}|LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj|solutionrelative:locadoraveiculos.webapi\\locadoraveiculos.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.servico\\services\\veiculoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|solutionrelative:locadoraveiculos.servico\\services\\veiculoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.servico\\services\\clienteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|solutionrelative:locadoraveiculos.servico\\services\\clienteservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.repositorio\\repositories\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|solutionrelative:locadoraveiculos.repositorio\\repositories\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.repositorio\\interfaces\\iveiculorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|solutionrelative:locadoraveiculos.repositorio\\interfaces\\iveiculorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.servico\\interfaces\\iveiculoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|solutionrelative:locadoraveiculos.servico\\interfaces\\iveiculoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.servico\\interfaces\\ireservaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CE29224-4DF1-45BF-B631-4D3A3A7BA33E}|LocadoraVeiculos.Servico\\LocadoraVeiculos.Servico.csproj|solutionrelative:locadoraveiculos.servico\\interfaces\\ireservaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|c:\\users\\ronynho\\desktop\\outros\\funcionando\\backend\\locadoraveiculos\\locadoraveiculos.repositorio\\repositories\\veiculorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E380489A-EE6F-4182-BFCC-C8973932C65B}|LocadoraVeiculos.Repositorio\\LocadoraVeiculos.Repositorio.csproj|solutionrelative:locadoraveiculos.repositorio\\repositories\\veiculorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\Models\\Reserva.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Dominio\\Models\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\Models\\Reserva.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Dominio\\Models\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:53:38.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReservaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Repositories\\ReservaRepositorio.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Repositorio\\Repositories\\ReservaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Repositories\\ReservaRepositorio.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Repositorio\\Repositories\\ReservaRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:54:19.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClienteServico.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Interfaces\\IClienteServico.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Servico\\Interfaces\\IClienteServico.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Interfaces\\IClienteServico.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Servico\\Interfaces\\IClienteServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:54:24.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.WebAPI\\Program.cs",
+              "RelativeToolTip": "LocadoraVeiculos.WebAPI\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAC0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:07:45.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservaServico.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Services\\ReservaServico.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Servico\\Services\\ReservaServico.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Services\\ReservaServico.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Servico\\Services\\ReservaServico.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:54:58.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\DTOs\\ReservaDto.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Dominio\\DTOs\\ReservaDto.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\DTOs\\ReservaDto.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Dominio\\DTOs\\ReservaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:52:31.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VeiculoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\DTOs\\VeiculoDto.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Dominio\\DTOs\\VeiculoDto.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\DTOs\\VeiculoDto.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Dominio\\DTOs\\VeiculoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:53:14.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VeiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.WebAPI\\Controllers\\VeiculoController.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.WebAPI\\Controllers\\VeiculoController.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.WebAPI\\Controllers\\VeiculoController.cs",
+              "RelativeToolTip": "LocadoraVeiculos.WebAPI\\Controllers\\VeiculoController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:55:25.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.WebAPI\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.WebAPI\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.WebAPI\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "LocadoraVeiculos.WebAPI\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:55:17.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.WebAPI\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.WebAPI\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.WebAPI\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "LocadoraVeiculos.WebAPI\\Controllers\\ReservaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:55:22.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IReservaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Interfaces\\IReservaRepositorio.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Repositorio\\Interfaces\\IReservaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Interfaces\\IReservaRepositorio.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Repositorio\\Interfaces\\IReservaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:54:02.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Dominio\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\Models\\Cliente.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Dominio\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:53:36.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Dominio\\Models\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\Models\\Veiculo.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Dominio\\Models\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:53:41.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Interfaces\\IClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Repositorio\\Interfaces\\IClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Interfaces\\IClienteRepositorio.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Repositorio\\Interfaces\\IClienteRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:53:59.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Repositorio\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Repositorio\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:53:54.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\DTOs\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Dominio\\DTOs\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Dominio\\DTOs\\ClienteDto.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Dominio\\DTOs\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:53:11.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LocadoraVeiculos.WebAPI",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj",
+              "RelativeToolTip": "LocadoraVeiculos.WebAPI\\LocadoraVeiculos.WebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-30T03:59:58.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteServico.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Services\\ClienteServico.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Servico\\Services\\ClienteServico.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Services\\ClienteServico.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Servico\\Services\\ClienteServico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:54:39.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Repositories\\ClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Repositorio\\Repositories\\ClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Repositories\\ClienteRepositorio.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Repositorio\\Repositories\\ClienteRepositorio.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:54:14.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IVeiculoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Interfaces\\IVeiculoRepositorio.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Repositorio\\Interfaces\\IVeiculoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Interfaces\\IVeiculoRepositorio.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Repositorio\\Interfaces\\IVeiculoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:54:04.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VeiculoServico.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Services\\VeiculoServico.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Servico\\Services\\VeiculoServico.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Services\\VeiculoServico.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Servico\\Services\\VeiculoServico.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:55:05.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VeiculoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Repositories\\VeiculoRepositorio.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Repositorio\\Repositories\\VeiculoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Repositorio\\Repositories\\VeiculoRepositorio.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Repositorio\\Repositories\\VeiculoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:54:21.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IVeiculoServico.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Interfaces\\IVeiculoServico.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Servico\\Interfaces\\IVeiculoServico.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Interfaces\\IVeiculoServico.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Servico\\Interfaces\\IVeiculoServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:54:26.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IReservaServico.cs",
+              "DocumentMoniker": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Interfaces\\IReservaServico.cs",
+              "RelativeDocumentMoniker": "LocadoraVeiculos.Servico\\Interfaces\\IReservaServico.cs",
+              "ToolTip": "C:\\Users\\Ronynho\\Desktop\\outros\\FUNCIONANDO\\backend\\LocadoraVeiculos\\LocadoraVeiculos.Servico\\Interfaces\\IReservaServico.cs",
+              "RelativeToolTip": "LocadoraVeiculos.Servico\\Interfaces\\IReservaServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:54:27.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

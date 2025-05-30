@@ -1,0 +1,214 @@
+[
+  {
+    "ContainingType": "LocadoraVeiculos.WebAPI.Controllers.ClienteController",
+    "Method": "Listar",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LocadoraVeiculos.Dominio.DTOs.ClienteDto, LocadoraVeiculos.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LocadoraVeiculos.WebAPI.Controllers.ClienteController",
+    "Method": "Adicionar",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clienteDto",
+        "Type": "LocadoraVeiculos.Dominio.DTOs.ClienteDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LocadoraVeiculos.WebAPI.Controllers.ClienteController",
+    "Method": "BuscarPorCpf",
+    "RelativePath": "api/Cliente/{cpf}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LocadoraVeiculos.Dominio.DTOs.ClienteDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LocadoraVeiculos.WebAPI.Controllers.ReservaController",
+    "Method": "Listar",
+    "RelativePath": "api/Reserva",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LocadoraVeiculos.Dominio.DTOs.ReservaDto, LocadoraVeiculos.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LocadoraVeiculos.WebAPI.Controllers.ReservaController",
+    "Method": "Adicionar",
+    "RelativePath": "api/Reserva",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reservaDto",
+        "Type": "LocadoraVeiculos.Dominio.DTOs.ReservaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LocadoraVeiculos.WebAPI.Controllers.ReservaController",
+    "Method": "ListarPorCliente",
+    "RelativePath": "api/Reserva/cliente/{cpf}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LocadoraVeiculos.Dominio.DTOs.ReservaDto, LocadoraVeiculos.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LocadoraVeiculos.WebAPI.Controllers.VeiculoController",
+    "Method": "Listar",
+    "RelativePath": "api/Veiculo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LocadoraVeiculos.Dominio.DTOs.VeiculoDto, LocadoraVeiculos.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LocadoraVeiculos.WebAPI.Controllers.VeiculoController",
+    "Method": "Adicionar",
+    "RelativePath": "api/Veiculo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "veiculoDto",
+        "Type": "LocadoraVeiculos.Dominio.DTOs.VeiculoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LocadoraVeiculos.WebAPI.Controllers.VeiculoController",
+    "Method": "Alugar",
+    "RelativePath": "api/Veiculo/alugar/{placa}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "placa",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LocadoraVeiculos.WebAPI.Controllers.VeiculoController",
+    "Method": "Devolver",
+    "RelativePath": "api/Veiculo/devolver/{placa}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "placa",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LocadoraVeiculos.WebAPI.Controllers.VeiculoController",
+    "Method": "ListarDisponiveis",
+    "RelativePath": "api/Veiculo/disponiveis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[LocadoraVeiculos.Dominio.DTOs.VeiculoDto, LocadoraVeiculos.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
